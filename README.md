@@ -7,7 +7,7 @@ y distintos fundamentos de un lenguaje concreto, pueda hacerlo accediendo al len
 
 Si hay algún lenguaje, tecnología, framework, o ámbito del desarrollo que te gustaría aprender y no se encuentra en los distintos cursos
 que hay añadidos, puedes contribuir con una pull request ya sea para sugerir dicha tecnología o añadir un curso que consideres que falte
-y que crees que podría venir bien para el repositorio. ¡Estamos abiertos a propuestas! 🤩
+y que crees que podría venir bien para el repositorio. ¡Estamos abiertos a propuestas! 
 
 # Cursos 📚
 
